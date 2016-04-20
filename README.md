@@ -1,5 +1,5 @@
 # Coursera_python
-Files used in Several Coursera course of python
+Source code used in Several Coursera course of python
 
 Programming for Everybody (Python)
 University of Michigan
