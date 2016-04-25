@@ -25,3 +25,7 @@ Source code used in Several Coursera courses of python
     University of Michigan
 
     taken _Jan 25, 2016 - Mar 7, 2016_ 
+
+Self-created project
+
+* My first python twitter bot
