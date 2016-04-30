@@ -2,19 +2,19 @@
 
 Source code used in Several Coursera courses of python
 
-## Programming for Everybody (Python)
+* Programming for Everybody (Python)
 
     University of Michigan
 
-## An Introduction to Interactive Programming in Python (Part 1)
+* An Introduction to Interactive Programming in Python (Part 1)
 
     Rice University
 
-## An Introduction to Interactive Programming in Python (Part 2)
+* An Introduction to Interactive Programming in Python (Part 2)
 
     Rice University
     
-## Programming for Everybody (Getting Started with Python)
+* Programming for Everybody (Getting Started with Python)
     
     University of Michigan
     
@@ -22,7 +22,7 @@ Source code used in Several Coursera courses of python
     
     taken as review
     
-## Python Data Structures
+* Python Data Structures
 
     University of Michigan
     
@@ -30,7 +30,7 @@ Source code used in Several Coursera courses of python
     
     taken as review    
 
-## Using Python to Access Web Data
+* Using Python to Access Web Data
 
     University of Michigan
 
@@ -42,6 +42,6 @@ Source code used in Several Coursera courses of python
 
     taken _Jan 25, 2016 - Mar 7, 2016_ 
 
-Self-created project
+## Self-created project
 
 * My first python twitter bot
