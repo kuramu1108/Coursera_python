@@ -2,19 +2,35 @@
 
 Source code used in Several Coursera courses of python
 
-* Programming for Everybody (Python)
+## Programming for Everybody (Python)
 
     University of Michigan
 
-* An Introduction to Interactive Programming in Python (Part 1)
+## An Introduction to Interactive Programming in Python (Part 1)
 
     Rice University
 
-* An Introduction to Interactive Programming in Python (Part 2)
+## An Introduction to Interactive Programming in Python (Part 2)
 
     Rice University
+    
+## Programming for Everybody (Getting Started with Python)
+    
+    University of Michigan
+    
+    renewal course from _Programming for Everybody (Python)_
+    
+    taken as review
+    
+## Python Data Structures
 
-* Using Python to Access Web Data
+    University of Michigan
+    
+    renewal course from _Programming for Everybody (Python)_
+    
+    taken as review    
+
+## Using Python to Access Web Data
 
     University of Michigan
 
