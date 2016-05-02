@@ -2,6 +2,10 @@
 
 print "foo"
 
+string = "banana"
+
+for char in string:
+    print char
 '''
 deck = []
 print deck
